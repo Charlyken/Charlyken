@@ -14,7 +14,7 @@
 - Passionate about creating applications with real impact, I like to understand how each layer — from <code>back-end</code> to <code>front-end</code> — interacts to bring powerful and elegant solutions to life.
 
 ## 🧠 My Focus Areas
-- <code>Développement Web</code>
+- <code>Software Engineering</code>
 - <code>Brand designer </code>
 - <code>IA</code>
 
