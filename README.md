@@ -10,7 +10,7 @@
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Currently training in <strong>full stack Java</strong> &#127861 development, I am gradually building the solid foundations necessary to become a <strong>Software Engineer</strong> &#128515;.
+- Currently training in <strong>full stack Java</strong> &#127861; development, I am gradually building the solid foundations necessary to become a <strong>Software Engineer</strong> &#128515;.
 - Passionate about creating applications with real impact, I like to understand how each layer — from <code>back-end</code> to <code>front-end</code> — interacts to bring powerful and elegant solutions to life.
 
 ## 🧠 My Focus Areas
