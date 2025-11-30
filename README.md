@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'am Charly Ken</h1>
-<h3 align="center">IT Student</h3>
+<h3 align="center">Software Engineer (Java/Spring Boot)</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Charlyken">
