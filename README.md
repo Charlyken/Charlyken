@@ -15,7 +15,7 @@
 
 ## 🧠 My Focus Areas
 - <code>Software Engineering</code>
-- <code>Brand designer </code>
+- <code>Brand designer</code>
 - <code>IA</code>
 
 
