@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charlyken&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="Charlyken's GitHub Stats" width="49%" />
+  
   <img src="https://streak-stats.demolab.com/?user=Charlyken&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Charlyken's GitHub Streak" width="49%" />
 </p>
 <p align="center">
