@@ -21,10 +21,6 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  
-  <img src="https://streak-stats.demolab.com/?user=Charlyken&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Charlyken's GitHub Streak" width="49%" />
-</p>
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Charlyken&theme=github_dark&radius=10" alt="Charlyken's Activity Graph" />
 </p>
 
