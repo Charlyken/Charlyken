@@ -1,7 +1,7 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Charly Ken</h1>
-<h3 align="center">Software Engineer | Java FullStack & Brand Designer</h3>
+<h1 align="center" alt="charly ken">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Charly Ken</h1>
+<h3 align="center" alt="charly ken">Software Engineer | Java FullStack & Brand Designer</h3>
 
-<p align="center">
+<p align="center" alt="charly ken">
   <a href="https://komarev.com/ghpvc/?username=Charlyken">
     <img src="https://komarev.com/ghpvc/?username=Charlyken&label=Profile%20views&color=00FFFF&style=flat-square" alt="Charlyken's profile views" />
   </a>
