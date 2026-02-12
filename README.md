@@ -1,13 +1,13 @@
-<h1 align="center" alt="charly ken">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Charly Ken</h1>
-<h3 align="center" alt="charly ken">Software Engineer | Java FullStack & Brand Designer</h3>
+<h1 align="center" alt="charly keuni">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Charly Ken</h1>
+<h3 align="center" alt="charly keuni">Software Engineer | Java FullStack & Brand Designer</h3>
 
-<p align="center" alt="charly ken">
+<p align="center" alt="charly keuni">
   <a href="https://komarev.com/ghpvc/?username=Charlyken">
     <img src="https://komarev.com/ghpvc/?username=Charlyken&label=Profile%20views&color=00FFFF&style=flat-square" alt="Charlyken's profile views" />
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Charly Keuni" width="100%" />
 
 ## 📌 About Me
 - Currently training in <strong>full stack Java</strong> &#127861; development, I am gradually building the solid foundations necessary to become a <strong>Software Engineer</strong> &#128515;.
