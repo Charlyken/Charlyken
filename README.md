@@ -3,7 +3,7 @@
 
 <p align="center" alt="charly keuni">
   <a href="https://komarev.com/ghpvc/?username=Charlyken">
-    <img src="https://komarev.com/ghpvc/?username=Charlyken&label=Profile%20views&color=00FFFF&style=flat-square" alt="Charlyken's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Charlyken&label=Profile%20views&color=00FFFF&style=for-the-badge" alt="Charlyken's profile views" />
   </a>
 </p>
 
