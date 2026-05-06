@@ -1,13 +1,13 @@
 <h1 align="center" alt="charly keuni">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Charly Ken</h1>
 <h3 align="center" alt="charly keuni">Software Engineer | Java FullStack & Brand Designer</h3>
 
+<img src="./Github profile.png" alt="Charly Keuni" width="100%" />
+
 <p align="center" alt="charly keuni">
   <a href="https://komarev.com/ghpvc/?username=Charlyken">
-    <img src="https://komarev.com/ghpvc/?username=Charlyken&label=Profile%20views&color=00FFFF&style=for-the-badge" alt="Charlyken's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Charlyken&label=Profile%20views&color=1F51FF&style=for-the-badge" alt="Charlyken's profile views" />
   </a>
 </p>
-
-
 
 ## 📌 About Me
 - Currently training in <strong>full stack Java</strong> &#127861; development, I am gradually building the solid foundations necessary to become a <strong>Software Engineer</strong> &#128515;.
@@ -122,14 +122,14 @@
 <td width="50%" align="center">
   <h4>Most Used Languages</h4>
   <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=Charlyken&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8"
+    src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=Charlyken&layout=compact&hide_border=true&bg_color=ffffff&title_color=1F51FF&text_color=000000&langs_count=8"
     alt="Top Languages"
   />
 </td>
 <td width="50%" align="center">
   <h4>GitHub Stats</h4>
   <img 
-    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=Charlyken&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    src="https://github-readme-stats-two-beta-28.vercel.app/api?username=Charlyken&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1F51FF&text_color=000000&icon_color=000000"
     alt="GitHub Stats"
   />
 </td>
@@ -137,7 +137,7 @@
 </table>
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Charlyken&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=CharlyKen's%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Charlyken&bg_color=ffffff&color=1F51FF&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=CharlyKen's%20Contribution%20Graph"
   alt="Activity Graph"
   width="100%"
 />
@@ -145,12 +145,14 @@
 
 
 ## 🔗 Connect with Me
-<div align="center">
-  <a href="linkedin.com/in/charly-keuni-a36233224" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" /></a> 
-  <a href="mailto:keunitchokonthe@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="Linkedin" /></a>
-</div>
+<p align="center">
+  <a href="linkedin.com/in/charly-keuni-a36233224" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="Linkedin" /></a> 
+  <a href="mailto:keunitchokonthe@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="gmail" /></a>
+</p>
+
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Charly Keuni" width="100%" />
+
 ## 💬 Quote
 <p style="font-size:100px"> 𝕍𝔼ℕ𝕀 𝕍𝕀𝔻𝕀 𝕍𝕀ℂ𝕀 </p>
 
