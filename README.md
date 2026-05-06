@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Charly Keuni" width="100%" />
+
 
 ## 📌 About Me
 - Currently training in <strong>full stack Java</strong> &#127861; development, I am gradually building the solid foundations necessary to become a <strong>Software Engineer</strong> &#128515;.
@@ -150,6 +150,7 @@
   <a href="mailto:keunitchokonthe@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="Linkedin" /></a>
 </div>
 
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Charly Keuni" width="100%" />
 ## 💬 Quote
 <p style="font-size:100px"> 𝕍𝔼ℕ𝕀 𝕍𝕀𝔻𝕀 𝕍𝕀ℂ𝕀 </p>
 
