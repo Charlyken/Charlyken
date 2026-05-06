@@ -1,5 +1,9 @@
 <h1 align="center" alt="charly keuni">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Charly Ken</h1>
-<h3 align="center" alt="charly keuni">Software Engineer | Java FullStack & Brand Designer</h3>
+<h3 align="center" alt="charly keuni">Software Engineer | Java FullStack | AI | Brand Designer</h3>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=1000&color=1D2DF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Java+FullStack;+AI+Engineer+;Brand+Designer" alt="Typing SVG" /></a>
+</div>
 
 <img src="./Github profile.png" alt="Charly Keuni" width="100%" />
 
