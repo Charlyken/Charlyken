@@ -150,7 +150,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="linkedin.com/in/charly-keuni" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="Linkedin" /></a> 
+  <a href="https://www.linkedin.com/in/charly-keuni/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="Linkedin" /></a> 
   <a href="mailto:keunitchokonthe@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="gmail" /></a>
 </p>
 
