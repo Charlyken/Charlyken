@@ -139,13 +139,9 @@
 </td>
 </tr>
 </table>
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Charlyken&amp;bg_color=ffffff&amp;color=1F51FF&amp;line=000000&amp;point=000000&amp;area_color=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=CharlyKen%27s%20Contribution%20Graph"
-  alt="Activity Graph"
-  width="100%"
-/>
 </div>
+
+[![Charlyken's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Charlyken&bg_color=ffffff&color=1F51FF&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=CharlyKen%27s%20Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 ## 🔗 Connect with Me
