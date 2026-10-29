@@ -141,7 +141,7 @@
 </table>
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Charlyken&bg_color=ffffff&color=1F51FF&line=000000&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=CharlyKen's%20Contribution%20Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Charlyken&amp;bg_color=ffffff&amp;color=1F51FF&amp;line=000000&amp;point=000000&amp;area_color=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=CharlyKen%27s%20Contribution%20Graph"
   alt="Activity Graph"
   width="100%"
 />
@@ -163,4 +163,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
-
