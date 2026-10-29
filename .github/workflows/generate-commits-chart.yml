@@ -22,8 +22,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_LOGIN: Charlyken
         run: python3 scripts/generate-commits-chart.py
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: JamesIves/github-pages-deploy-action@v4
         with:
-          build_dir: dist
+          branch: commits-chart
+          folder: dist
+          clean: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
