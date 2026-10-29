@@ -145,6 +145,12 @@
   alt="Charly Ken's GitHub contribution graph"
   width="100%"
 />
+
+<img
+  src="https://raw.githubusercontent.com/Charlyken/Charlyken/gh-pages/commits-last-7-days.svg"
+  alt="Charly Ken's commits during the last 7 days"
+  width="100%"
+/>
 </div>
 
 
