@@ -22,7 +22,7 @@ def api(path, params):
 
 since = dt.datetime.combine(days[0], dt.time.min, tzinfo=dt.timezone.utc).isoformat()
 until = dt.datetime.combine(today + dt.timedelta(days=1), dt.time.min, tzinfo=dt.timezone.utc).isoformat()
-for repo in api("/user/repos", {"visibility":"all","affiliation":"owner","per_page":100}):
+for repo in api("/users/" + login + "/repos", {"type":"owner","sort":"updated","per_page":100}):
     page = 1
     while page <= 10:
         commits = api("/repos/" + repo["full_name"] + "/commits", {"author":login,"since":since,"until":until,"per_page":100,"page":page})
