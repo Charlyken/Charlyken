@@ -145,6 +145,7 @@
   alt="Activity Graph"
   width="100%"
 />
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Charlyken&theme=dracula)](https://github.com/Charlyken/github-readme-activity-graph)
 </div>
 
 
