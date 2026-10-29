@@ -140,12 +140,17 @@
 </tr>
 </table>
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Charlyken&amp;bg_color=ffffff&amp;color=1F51FF&amp;line=000000&amp;point=000000&amp;area_color=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=CharlyKen%27s%20Contribution%20Graph"
-  alt="Activity Graph"
+<img
+  src="https://raw.githubusercontent.com/Charlyken/Charlyken/gh-pages/github-contribution-grid-snake.svg"
+  alt="Charly Ken's GitHub contribution graph"
   width="100%"
 />
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Charlyken&theme=dracula)](https://github.com/Charlyken/github-readme-activity-graph)
+
+<img
+  src="https://raw.githubusercontent.com/Charlyken/Charlyken/commits-chart/commits-last-7-days.svg"
+  alt="Charly Ken's commits during the last 7 days"
+  width="100%"
+/>
 </div>
 
 

@@ -1,0 +1,31 @@
+name: Generate commits chart
+
+on:
+  push:
+    branches:
+      - main
+      - fix/activity-graph
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate commits chart
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_LOGIN: Charlyken
+        run: python3 scripts/generate-commits-chart.py
+      - uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: commits-chart
+          folder: dist
+          clean: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
