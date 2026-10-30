@@ -5,32 +5,54 @@
 <text x="40" y="54" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Evolution des commits sur les 7 derniers jours</text>
 <line x1="70" y1="385.0" x2="925" y2="385.0" stroke="#dfe6f3" stroke-dasharray="4 6"/>
 <text x="56" y="389.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">0</text>
-<line x1="70" y1="220.0" x2="925" y2="220.0" stroke="#dfe6f3" stroke-dasharray="4 6"/>
-<text x="56" y="224.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">1</text>
+<line x1="70" y1="359.6" x2="925" y2="359.6" stroke="#dfe6f3" stroke-dasharray="4 6"/>
+<text x="56" y="363.6" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">1</text>
+<line x1="70" y1="334.2" x2="925" y2="334.2" stroke="#dfe6f3" stroke-dasharray="4 6"/>
+<text x="56" y="338.2" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">2</text>
+<line x1="70" y1="308.8" x2="925" y2="308.8" stroke="#dfe6f3" stroke-dasharray="4 6"/>
+<text x="56" y="312.8" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">3</text>
+<line x1="70" y1="283.5" x2="925" y2="283.5" stroke="#dfe6f3" stroke-dasharray="4 6"/>
+<text x="56" y="287.5" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">4</text>
+<line x1="70" y1="258.1" x2="925" y2="258.1" stroke="#dfe6f3" stroke-dasharray="4 6"/>
+<text x="56" y="262.1" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">5</text>
+<line x1="70" y1="232.7" x2="925" y2="232.7" stroke="#dfe6f3" stroke-dasharray="4 6"/>
+<text x="56" y="236.7" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">6</text>
+<line x1="70" y1="207.3" x2="925" y2="207.3" stroke="#dfe6f3" stroke-dasharray="4 6"/>
+<text x="56" y="211.3" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">7</text>
+<line x1="70" y1="181.9" x2="925" y2="181.9" stroke="#dfe6f3" stroke-dasharray="4 6"/>
+<text x="56" y="185.9" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">8</text>
+<line x1="70" y1="156.5" x2="925" y2="156.5" stroke="#dfe6f3" stroke-dasharray="4 6"/>
+<text x="56" y="160.5" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">9</text>
+<line x1="70" y1="131.2" x2="925" y2="131.2" stroke="#dfe6f3" stroke-dasharray="4 6"/>
+<text x="56" y="135.2" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">10</text>
+<line x1="70" y1="105.8" x2="925" y2="105.8" stroke="#dfe6f3" stroke-dasharray="4 6"/>
+<text x="56" y="109.8" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">11</text>
+<line x1="70" y1="80.4" x2="925" y2="80.4" stroke="#dfe6f3" stroke-dasharray="4 6"/>
+<text x="56" y="84.4" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">12</text>
 <line x1="70" y1="55.0" x2="925" y2="55.0" stroke="#dfe6f3" stroke-dasharray="4 6"/>
-<text x="56" y="59.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">2</text>
-<polygon points="70,385 70.0,385.0 212.5,385.0 355.0,385.0 497.5,385.0 640.0,385.0 782.5,385.0 925.0,55.0 925,385" fill="url(#area)"/>
-<polyline points="70.0,385.0 212.5,385.0 355.0,385.0 497.5,385.0 640.0,385.0 782.5,385.0 925.0,55.0" fill="none" stroke="#315cff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#shadow)"/>
+<text x="56" y="59.0" text-anchor="end" font-family="Arial, sans-serif" font-size="12" fill="#7b879d">13</text>
+<polygon points="70,385 70.0,385.0 212.5,385.0 355.0,385.0 497.5,385.0 640.0,385.0 782.5,55.0 925.0,385.0 925,385" fill="url(#area)"/>
+<polyline points="70.0,385.0 212.5,385.0 355.0,385.0 497.5,385.0 640.0,385.0 782.5,55.0 925.0,385.0" fill="none" stroke="#315cff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#shadow)"/>
 <circle cx="70.0" cy="385.0" r="7" fill="#ffffff" stroke="#315cff" stroke-width="4"/>
 <text x="70.0" y="370.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0</text>
-<text x="70.0" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Fri 23/10</text>
+<text x="70.0" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Sat 24/10</text>
 <circle cx="212.5" cy="385.0" r="7" fill="#ffffff" stroke="#315cff" stroke-width="4"/>
 <text x="212.5" y="370.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0</text>
-<text x="212.5" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Sat 24/10</text>
+<text x="212.5" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Sun 25/10</text>
 <circle cx="355.0" cy="385.0" r="7" fill="#ffffff" stroke="#315cff" stroke-width="4"/>
 <text x="355.0" y="370.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0</text>
-<text x="355.0" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Sun 25/10</text>
+<text x="355.0" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Mon 26/10</text>
 <circle cx="497.5" cy="385.0" r="7" fill="#ffffff" stroke="#315cff" stroke-width="4"/>
 <text x="497.5" y="370.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0</text>
-<text x="497.5" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Mon 26/10</text>
+<text x="497.5" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Tue 27/10</text>
 <circle cx="640.0" cy="385.0" r="7" fill="#ffffff" stroke="#315cff" stroke-width="4"/>
 <text x="640.0" y="370.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0</text>
-<text x="640.0" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Tue 27/10</text>
-<circle cx="782.5" cy="385.0" r="7" fill="#ffffff" stroke="#315cff" stroke-width="4"/>
-<text x="782.5" y="370.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0</text>
-<text x="782.5" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Wed 28/10</text>
-<circle cx="925.0" cy="55.0" r="7" fill="#ffffff" stroke="#315cff" stroke-width="4"/>
-<text x="925.0" y="40.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">2</text>
-<text x="925.0" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Thu 29/10</text>
+<text x="640.0" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Wed 28/10</text>
+<circle cx="782.5" cy="55.0" r="7" fill="#ffffff" stroke="#315cff" stroke-width="4"/>
+<text x="782.5" y="40.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">13</text>
+<text x="782.5" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Thu 29/10</text>
+<circle cx="925.0" cy="385.0" r="7" fill="#ffffff" stroke="#315cff" stroke-width="4"/>
+<text x="925.0" y="370.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">0</text>
+<text x="925.0" y="425" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Fri 30/10</text>
 <text x="70" y="448" font-family="Arial, sans-serif" font-size="11" fill="#9ca3af">Auteur : Charlyken · commits publics trouvés via GitHub Search</text>
 </svg>
