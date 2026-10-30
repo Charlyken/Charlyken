@@ -24,22 +24,46 @@ def api(path, params):
     with urllib.request.urlopen(request) as response:
         return json.load(response)
 
-query = f"author:{login} committer-date:{days[0].isoformat()}..{today.isoformat()}"
-for page in range(1, 11):
-    result = api("/search/commits", {
-        "q": query,
-        "sort": "committer-date",
-        "order": "asc",
-        "per_page": 100,
-        "page": page,
-    })
-    commits = result.get("items", [])
-    for item in commits:
-        date = item.get("commit", {}).get("author", {}).get("date", "")[:10]
-        if date in counts:
-            counts[date] += 1
-    if len(commits) < 100:
-        break
+graphql = """
+query($login: String!, $from: DateTime!, $to: DateTime!) {
+  user(login: $login) {
+    contributionsCollection(from: $from, to: $to) {
+      contributionCalendar {
+        contributionDays {
+          date
+          contributionCount
+        }
+      }
+    }
+  }
+}
+"""
+variables = {
+    "login": login,
+    "from": since,
+    "to": until,
+}
+request = urllib.request.Request(
+    "https://api.github.com/graphql",
+    data=json.dumps({"query": graphql, "variables": variables}).encode("utf-8"),
+    headers={
+        "Accept": "application/vnd.github+json",
+        "Authorization": "Bearer " + token,
+        "Content-Type": "application/json",
+        "X-GitHub-Api-Version": "2022-11-28",
+        "User-Agent": "Charlyken-contribution-graph",
+    },
+)
+with urllib.request.urlopen(request) as response:
+    payload = json.load(response)
+
+if payload.get("errors"):
+    raise RuntimeError(payload["errors"])
+
+calendar_days = payload["data"]["user"]["contributionsCollection"]["contributionCalendar"]["contributionDays"]
+for item in calendar_days:
+    if item["date"] in counts:
+        counts[item["date"]] = item["contributionCount"]
 
 width, height = 1500, 523
 left, right, top, bottom = 112, 60, 100, 86
