@@ -2,6 +2,7 @@
 import datetime as dt
 import json
 import os
+import re
 import urllib.parse
 import urllib.request
 from html import escape
@@ -24,46 +25,25 @@ def api(path, params):
     with urllib.request.urlopen(request) as response:
         return json.load(response)
 
-graphql = """
-query($login: String!, $from: DateTime!, $to: DateTime!) {
-  user(login: $login) {
-    contributionsCollection(from: $from, to: $to) {
-      contributionCalendar {
-        contributionDays {
-          date
-          contributionCount
-        }
-      }
-    }
-  }
-}
-"""
-variables = {
-    "login": login,
-    "from": since,
-    "to": until,
-}
+contributions_url = "https://github.com/users/" + login + "/contributions?" + urllib.parse.urlencode({
+    "from": days[0].isoformat(),
+    "to": today.isoformat(),
+})
 request = urllib.request.Request(
-    "https://api.github.com/graphql",
-    data=json.dumps({"query": graphql, "variables": variables}).encode("utf-8"),
-    headers={
-        "Accept": "application/vnd.github+json",
-        "Authorization": "Bearer " + token,
-        "Content-Type": "application/json",
-        "X-GitHub-Api-Version": "2022-11-28",
-        "User-Agent": "Charlyken-contribution-graph",
-    },
+    contributions_url,
+    headers={"User-Agent": "Charlyken-contribution-graph"},
 )
 with urllib.request.urlopen(request) as response:
-    payload = json.load(response)
+    html = response.read().decode("utf-8")
 
-if payload.get("errors"):
-    raise RuntimeError(payload["errors"])
-
-calendar_days = payload["data"]["user"]["contributionsCollection"]["contributionCalendar"]["contributionDays"]
-for item in calendar_days:
-    if item["date"] in counts:
-        counts[item["date"]] = item["contributionCount"]
+pattern = re.compile(
+    r'<td[^>]*data-date="([^"]+)"[^>]*>.*?<tool-tip[^>]*>(.*?)</tool-tip>',
+    re.DOTALL,
+)
+for date, tooltip in pattern.findall(html):
+    if date in counts:
+        match = re.search(r"(\d+) contributions?", tooltip)
+        counts[date] = int(match.group(1)) if match else 0
 
 width, height = 1500, 523
 left, right, top, bottom = 112, 60, 100, 86
