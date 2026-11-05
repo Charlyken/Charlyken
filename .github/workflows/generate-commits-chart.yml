@@ -4,28 +4,45 @@ on:
   push:
     branches:
       - main
-      - fix/activity-graph
   schedule:
-    - cron: "15 0 * * *"
+    # Toutes les 6 h : le point « aujourd'hui » reste à jour dans la journée
+    - cron: "15 */6 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write # push de la branche commits-chart
+  actions: write  # garde-fou : réactiver les workflows planifiés (voir dernière étape)
+
+concurrency:
+  group: commits-chart
+  cancel-in-progress: false
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
       - name: Generate commits chart
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_LOGIN: Charlyken
+          # Optionnel : secret PROFILE_TOKEN (PAT, scope read:user) pour inclure aussi les contributions privées
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_LOGIN: ${{ github.repository_owner }}
         run: python3 scripts/generate-commits-chart.py
-      - uses: JamesIves/github-pages-deploy-action@v4
+
+      - uses: JamesIves/github-pages-deploy-action@fa24774553152dd7873cd16ebd8d959b010c5445 # v4
         with:
           branch: commits-chart
           folder: dist
           clean: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # GitHub désactive les workflows planifiés après 60 jours sans activité dans le dépôt.
+      # Ré-activer les workflows à chaque run sert de garde-fou (non garanti, à surveiller).
+      - name: Keep scheduled workflows alive
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh workflow enable generate-commits-chart.yml --repo "$GITHUB_REPOSITORY" || true
+          gh workflow enable generate-snake.yml --repo "$GITHUB_REPOSITORY" || true
