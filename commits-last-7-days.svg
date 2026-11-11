@@ -4,36 +4,72 @@
 <text x="750" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#4cc9f0">Charlyken&#39;s Contribution Graph</text>
 <line x1="112" y1="437.0" x2="1440" y2="437.0" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
 <text x="98" y="443.0" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">0</text>
-<line x1="112" y1="414.5" x2="1440" y2="414.5" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="420.5" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">2</text>
-<line x1="112" y1="392.1" x2="1440" y2="392.1" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="398.1" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">4</text>
-<line x1="112" y1="369.6" x2="1440" y2="369.6" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="375.6" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">6</text>
-<line x1="112" y1="347.1" x2="1440" y2="347.1" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="353.1" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">8</text>
+<line x1="112" y1="426.8" x2="1440" y2="426.8" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="432.8" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">2</text>
+<line x1="112" y1="416.6" x2="1440" y2="416.6" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="422.6" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">4</text>
+<line x1="112" y1="406.4" x2="1440" y2="406.4" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="412.4" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">6</text>
+<line x1="112" y1="396.2" x2="1440" y2="396.2" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="402.2" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">8</text>
+<line x1="112" y1="385.9" x2="1440" y2="385.9" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="391.9" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">10</text>
+<line x1="112" y1="375.7" x2="1440" y2="375.7" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="381.7" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">12</text>
+<line x1="112" y1="365.5" x2="1440" y2="365.5" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="371.5" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">14</text>
+<line x1="112" y1="355.3" x2="1440" y2="355.3" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="361.3" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">16</text>
+<line x1="112" y1="345.1" x2="1440" y2="345.1" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="351.1" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">18</text>
+<line x1="112" y1="334.9" x2="1440" y2="334.9" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="340.9" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">20</text>
 <line x1="112" y1="324.7" x2="1440" y2="324.7" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="330.7" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">10</text>
-<line x1="112" y1="302.2" x2="1440" y2="302.2" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="308.2" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">12</text>
-<line x1="112" y1="279.7" x2="1440" y2="279.7" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="285.7" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">14</text>
-<line x1="112" y1="257.3" x2="1440" y2="257.3" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="263.3" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">16</text>
-<line x1="112" y1="234.8" x2="1440" y2="234.8" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="240.8" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">18</text>
+<text x="98" y="330.7" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">22</text>
+<line x1="112" y1="314.5" x2="1440" y2="314.5" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="320.5" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">24</text>
+<line x1="112" y1="304.2" x2="1440" y2="304.2" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="310.2" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">26</text>
+<line x1="112" y1="294.0" x2="1440" y2="294.0" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="300.0" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">28</text>
+<line x1="112" y1="283.8" x2="1440" y2="283.8" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="289.8" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">30</text>
+<line x1="112" y1="273.6" x2="1440" y2="273.6" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="279.6" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">32</text>
+<line x1="112" y1="263.4" x2="1440" y2="263.4" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="269.4" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">34</text>
+<line x1="112" y1="253.2" x2="1440" y2="253.2" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="259.2" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">36</text>
+<line x1="112" y1="243.0" x2="1440" y2="243.0" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="249.0" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">38</text>
+<line x1="112" y1="232.8" x2="1440" y2="232.8" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="238.8" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">40</text>
+<line x1="112" y1="222.5" x2="1440" y2="222.5" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="228.5" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">42</text>
 <line x1="112" y1="212.3" x2="1440" y2="212.3" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="218.3" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">20</text>
-<line x1="112" y1="189.9" x2="1440" y2="189.9" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="195.9" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">22</text>
-<line x1="112" y1="167.4" x2="1440" y2="167.4" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="173.4" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">24</text>
-<line x1="112" y1="144.9" x2="1440" y2="144.9" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="150.9" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">26</text>
-<line x1="112" y1="122.5" x2="1440" y2="122.5" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="128.5" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">28</text>
+<text x="98" y="218.3" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">44</text>
+<line x1="112" y1="202.1" x2="1440" y2="202.1" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="208.1" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">46</text>
+<line x1="112" y1="191.9" x2="1440" y2="191.9" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="197.9" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">48</text>
+<line x1="112" y1="181.7" x2="1440" y2="181.7" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="187.7" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">50</text>
+<line x1="112" y1="171.5" x2="1440" y2="171.5" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="177.5" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">52</text>
+<line x1="112" y1="161.3" x2="1440" y2="161.3" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="167.3" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">54</text>
+<line x1="112" y1="151.1" x2="1440" y2="151.1" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="157.1" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">56</text>
+<line x1="112" y1="140.8" x2="1440" y2="140.8" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="146.8" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">58</text>
+<line x1="112" y1="130.6" x2="1440" y2="130.6" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="136.6" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">60</text>
+<line x1="112" y1="120.4" x2="1440" y2="120.4" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="126.4" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">62</text>
+<line x1="112" y1="110.2" x2="1440" y2="110.2" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
+<text x="98" y="116.2" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">64</text>
 <line x1="112" y1="100.0" x2="1440" y2="100.0" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
-<text x="98" y="106.0" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">30</text>
+<text x="98" y="106.0" text-anchor="end" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">66</text>
 <line x1="112.0" y1="100" x2="112.0" y2="437" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
 <text x="112.0" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">1</text>
 <line x1="156.3" y1="100" x2="156.3" y2="437" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
@@ -96,37 +132,37 @@
 <text x="1395.7" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">30</text>
 <line x1="1440.0" y1="100" x2="1440.0" y2="437" stroke="#123847" stroke-width="2" stroke-dasharray="2 5"/>
 <text x="1440.0" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">31</text>
-<path d="M 112.0,437.0 C 134.1,437.0 134.1,437.0 156.3,437.0 C 178.4,437.0 178.4,437.0 200.5,437.0 C 222.7,437.0 222.7,437.0 244.8,437.0 C 266.9,437.0 266.9,437.0 289.1,437.0 C 311.2,437.0 311.2,437.0 333.3,437.0 C 355.5,437.0 355.5,100.0 377.6,100.0 C 399.7,100.0 399.7,437.0 421.9,437.0 C 444.0,437.0 444.0,257.3 466.1,257.3 C 488.3,257.3 488.3,437.0 510.4,437.0 C 532.5,437.0 532.5,347.1 554.7,347.1 C 576.8,347.1 576.8,437.0 598.9,437.0 C 621.1,437.0 621.1,437.0 643.2,437.0 C 665.3,437.0 665.3,437.0 687.5,437.0 C 709.6,437.0 709.6,437.0 731.7,437.0 C 753.9,437.0 753.9,437.0 776.0,437.0 C 798.1,437.0 798.1,437.0 820.3,437.0 C 842.4,437.0 842.4,403.3 864.5,403.3 C 886.7,403.3 886.7,201.1 908.8,201.1 C 930.9,201.1 930.9,189.9 953.1,189.9 C 975.2,189.9 975.2,437.0 997.3,437.0 C 1019.5,437.0 1019.5,437.0 1041.6,437.0 C 1063.7,437.0 1063.7,437.0 1085.9,437.0 C 1108.0,437.0 1108.0,392.1 1130.1,392.1 C 1152.3,392.1 1152.3,246.0 1174.4,246.0 C 1196.5,246.0 1196.5,369.6 1218.7,369.6 C 1240.8,369.6 1240.8,437.0 1262.9,437.0 C 1285.1,437.0 1285.1,414.5 1307.2,414.5 C 1329.3,414.5 1329.3,437.0 1351.5,437.0 C 1373.6,437.0 1373.6,437.0 1395.7,437.0 C 1417.9,437.0 1417.9,437.0 1440.0,437.0" fill="none" stroke="#55d6f5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+<path d="M 112.0,437.0 C 134.1,437.0 134.1,437.0 156.3,437.0 C 178.4,437.0 178.4,437.0 200.5,437.0 C 222.7,437.0 222.7,437.0 244.8,437.0 C 266.9,437.0 266.9,437.0 289.1,437.0 C 311.2,437.0 311.2,283.8 333.3,283.8 C 355.5,283.8 355.5,437.0 377.6,437.0 C 399.7,437.0 399.7,355.3 421.9,355.3 C 444.0,355.3 444.0,437.0 466.1,437.0 C 488.3,437.0 488.3,396.2 510.4,396.2 C 532.5,396.2 532.5,437.0 554.7,437.0 C 576.8,437.0 576.8,437.0 598.9,437.0 C 621.1,437.0 621.1,437.0 643.2,437.0 C 665.3,437.0 665.3,437.0 687.5,437.0 C 709.6,437.0 709.6,437.0 731.7,437.0 C 753.9,437.0 753.9,437.0 776.0,437.0 C 798.1,437.0 798.1,421.7 820.3,421.7 C 842.4,421.7 842.4,329.8 864.5,329.8 C 886.7,329.8 886.7,324.7 908.8,324.7 C 930.9,324.7 930.9,437.0 953.1,437.0 C 975.2,437.0 975.2,437.0 997.3,437.0 C 1019.5,437.0 1019.5,437.0 1041.6,437.0 C 1063.7,437.0 1063.7,416.6 1085.9,416.6 C 1108.0,416.6 1108.0,350.2 1130.1,350.2 C 1152.3,350.2 1152.3,406.4 1174.4,406.4 C 1196.5,406.4 1196.5,437.0 1218.7,437.0 C 1240.8,437.0 1240.8,426.8 1262.9,426.8 C 1285.1,426.8 1285.1,437.0 1307.2,437.0 C 1329.3,437.0 1329.3,437.0 1351.5,437.0 C 1373.6,437.0 1373.6,105.1 1395.7,105.1 C 1417.9,105.1 1417.9,437.0 1440.0,437.0" fill="none" stroke="#55d6f5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
 <circle cx="112.0" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="156.3" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="200.5" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="244.8" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="289.1" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="333.3" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="377.6" cy="100.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="421.9" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="466.1" cy="257.3" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="510.4" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="554.7" cy="347.1" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="333.3" cy="283.8" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="377.6" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="421.9" cy="355.3" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="466.1" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="510.4" cy="396.2" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="554.7" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="598.9" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="643.2" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="687.5" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="731.7" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="776.0" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="820.3" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="864.5" cy="403.3" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="908.8" cy="201.1" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="953.1" cy="189.9" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="820.3" cy="421.7" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="864.5" cy="329.8" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="908.8" cy="324.7" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="953.1" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="997.3" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="1041.6" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="1085.9" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="1130.1" cy="392.1" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="1174.4" cy="246.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="1218.7" cy="369.6" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="1262.9" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="1307.2" cy="414.5" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="1085.9" cy="416.6" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="1130.1" cy="350.2" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="1174.4" cy="406.4" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="1218.7" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="1262.9" cy="426.8" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="1307.2" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="1351.5" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
-<circle cx="1395.7" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
+<circle cx="1395.7" cy="105.1" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <circle cx="1440.0" cy="437.0" r="6.5" fill="#f7f7f7" stroke="#ffffff" stroke-width="2"/>
 <text x="38" y="268.5" transform="rotate(-90 38 268.5)" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">Contributions</text>
 <text x="776.0" y="495" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#35b9df">Days</text>
