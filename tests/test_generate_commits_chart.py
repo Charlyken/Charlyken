@@ -41,6 +41,10 @@ GENERATOR = load_generator()
 
 
 class ContributionCalendarTests(unittest.TestCase):
+    def test_y_axis_uses_whole_contribution_steps_for_small_counts(self):
+        self.assertEqual(GENERATOR.nice_step(1), 1)
+        self.assertEqual(GENERATOR.nice_step(4), 1)
+
     def test_utc_date_follows_github_calendar_around_paris_midnight(self):
         utc_date = getattr(GENERATOR, "utc_date", lambda _now: None)
         paris = dt.timezone(dt.timedelta(hours=1))

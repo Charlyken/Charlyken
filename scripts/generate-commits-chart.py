@@ -110,7 +110,7 @@ def nice_step(max_value, max_ticks=5):
         factor = 5
     else:
         factor = 10
-    return factor * magnitude
+    return max(1, factor * magnitude)
 
 
 def smooth_path(points):

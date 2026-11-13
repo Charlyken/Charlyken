@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - fix/activity-graph
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -11,17 +12,12 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: contribution-snake
-  cancel-in-progress: false
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -29,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish generated files
-        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
         env:
