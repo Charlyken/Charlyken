@@ -147,8 +147,8 @@
 />
 
 <img
-  src="https://raw.githubusercontent.com/Charlyken/Charlyken/commits-chart/commits-last-7-days.svg"
-  alt="Charly Ken's commits during the last 7 days"
+  src="https://raw.githubusercontent.com/Charlyken/Charlyken/commits-chart/commits-last-30-days.svg"
+  alt="Charly Ken's GitHub contributions during the latest 31 UTC dates"
   width="100%"
 />
 </div>
