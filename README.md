@@ -140,15 +140,18 @@
 </tr>
 </table>
 
-<img
-  src="https://raw.githubusercontent.com/Charlyken/Charlyken/gh-pages/github-contribution-grid-snake.svg"
-  alt="Charly Ken's GitHub contribution graph"
-  width="100%"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charlyken/Charlyken/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://raw.githubusercontent.com/Charlyken/Charlyken/gh-pages/github-contribution-grid-snake.svg"
+    alt="Charly Ken's GitHub contribution snake"
+    width="100%"
+  />
+</picture>
 
 <img
-  src="https://raw.githubusercontent.com/Charlyken/Charlyken/commits-chart/commits-last-7-days.svg"
-  alt="Charly Ken's commits during the last 7 days"
+  src="https://raw.githubusercontent.com/Charlyken/Charlyken/commits-chart/commits-last-30-days.svg"
+  alt="Charly Ken's GitHub contributions during the latest 31 UTC dates"
   width="100%"
 />
 </div>
